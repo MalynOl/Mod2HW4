@@ -2,8 +2,6 @@
 {
     internal interface IAction
     {
-        public Logger Instance { get; }
-
         public bool StartMethod();
 
         public bool SecondMethod();

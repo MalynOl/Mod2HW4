@@ -11,8 +11,8 @@ namespace HomeWork8
             builder.RegisterType<ConfigService>().As<IConfigService>();
             builder.RegisterType<FileService>().As<IFileService>();
             builder.RegisterType<NotificationService>().As<INotificationService>();
+            builder.RegisterType<Logger>().As<ILogger>();
             builder.RegisterType<Starter>();
-            builder.RegisterType<Logger>();
 
             var container = builder.Build();
 

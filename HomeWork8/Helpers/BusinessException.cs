@@ -1,4 +1,6 @@
-﻿namespace HomeWork8
+﻿using System;
+
+namespace HomeWork8
 {
     public class BusinessException : Exception
     {

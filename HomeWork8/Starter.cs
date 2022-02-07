@@ -1,17 +1,18 @@
-﻿using Autofac;
+﻿using System;
+using Autofac;
+
 namespace HomeWork8
 {
     internal class Starter
     {
-        private IAction _action;
+        private readonly IAction _action;
+        private readonly ILogger _log;
 
-        public Starter(IAction action)
+        public Starter(IAction action, ILogger log)
         {
             _action = action;
-            Instance = Logger.GetLog();
+            _log = log;
         }
-
-        private Logger Instance { get; set; }
 
         internal void Run()
         {
@@ -37,18 +38,15 @@ namespace HomeWork8
                 }
                 catch (BusinessException be)
                 {
-                    Instance.LoggerWarning($"Action got this custom Exception: ", be);
+                    _log.LoggerWarning($"Action got this custom Exception: ", be);
                 }
                 catch (Exception ex)
                 {
-                    Instance.LoggerError($"Action failed by a reason: ", ex);
+                    _log.LoggerError($"Action failed by a reason: ", ex);
                 }
             }
 
-            DependencyInjection dependencyInjection = new DependencyInjection();
-            var container = dependencyInjection.SetDI();
-            var writeLog = container.Resolve<Logger>();
-            writeLog.WriteLogsToFile(Instance.AllLogs);
+            _log.WriteLogsToFile(_log.AllLogs);
         }
     }
 }

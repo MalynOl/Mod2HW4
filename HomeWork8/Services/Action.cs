@@ -1,14 +1,22 @@
-﻿using System.Reflection;
+﻿using System;
+using System.Reflection;
+
 namespace HomeWork8
 {
     internal class Action : IAction
     {
-        public Logger Instance => Logger.GetLog();
+        // public Logger Instance => Logger.GetLog();
+        private readonly ILogger _log;
+
+        public Action(ILogger log)
+        {
+            _log = log;
+        }
 
         public bool StartMethod()
         {
-            var m = MethodBase.GetCurrentMethod().Name;
-            Instance.LoggerInfo($"Start method: {m}");
+            // var m = MethodBase.GetCurrentMethod().Name;
+            _log.LoggerInfo($"Start method: {nameof(StartMethod)}");
             return true;
         }
 

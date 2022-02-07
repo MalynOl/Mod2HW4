@@ -1,4 +1,7 @@
-﻿using System.Text;
+﻿using System;
+using System.IO;
+using System.Text;
+
 namespace HomeWork8
 {
     public class FileService : IFileService
@@ -42,7 +45,7 @@ namespace HomeWork8
                     FileInfo[] files = directory.GetFiles();
                     DateTime[] creationTimeMas = new DateTime[files.Length];
 
-                    if (files.Length > 3)
+                    if (files.Length > 2)
                     {
                         for (int i = 0; i < files.Length; i++)
                         {

@@ -1,4 +1,6 @@
-﻿using Newtonsoft.Json;
+﻿using System;
+using System.IO;
+using Newtonsoft.Json;
 
 namespace HomeWork8
 {
@@ -9,7 +11,7 @@ namespace HomeWork8
             Directory nameDirectory = new Directory();
             try
             {
-                string pathFileConfig = @"C:\Users\User\source\repos\MalynOl\Mod2HW4\HomeWork8\Config\ConfigFolder.json";
+                string pathFileConfig = @"C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Config\ConfigFolder.json";
                 var configFileText = File.ReadAllText(pathFileConfig);
                 nameDirectory = JsonConvert.DeserializeObject<Directory>(configFileText);
             }
