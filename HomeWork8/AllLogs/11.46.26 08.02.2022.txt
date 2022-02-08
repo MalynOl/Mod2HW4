@@ -1,0 +1,199 @@
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Warning: Action got this custom Exception: HomeWork8.BusinessException: Skipped logic in method
+   at HomeWork8.Action.SecondMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 23
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 32
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+08.02.2022 11:46:26: Error: Action failed by a reason: System.Exception: I broke a logic
+   at HomeWork8.Action.ThirdMethod() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Services\Action.cs:line 30
+   at HomeWork8.Starter.Run() in C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\Starter.cs:line 35
+
