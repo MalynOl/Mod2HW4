@@ -5,7 +5,6 @@ namespace HomeWork8
 {
     internal class Action : IAction
     {
-        // public Logger Instance => Logger.GetLog();
         private readonly ILogger _log;
 
         public Action(ILogger log)
@@ -15,7 +14,6 @@ namespace HomeWork8
 
         public bool StartMethod()
         {
-            // var m = MethodBase.GetCurrentMethod().Name;
             _log.LoggerInfo($"Start method: {nameof(StartMethod)}");
             return true;
         }

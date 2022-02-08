@@ -17,7 +17,7 @@ namespace HomeWork8
 
         public void WriteToFile(string str)
         {
-            string path = _configService.GetDirectoryName();
+            string path = @"C:\Users\Mir\source\repos\MalynOl\Mod2HW4\HomeWork8\" + _configService.GetDirectoryName();
 
             CheckCountFiles(path);
 
